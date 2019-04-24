@@ -1,0 +1,58 @@
+<style type="text/css">
+
+a:visited {
+		color: #b8b6b4;
+		font-family: "Motiva Sans", Sans-serif;
+	}
+	a:hover {
+		color: white;
+		font-family: "Motiva Sans", Sans-serif;
+	}
+	a:link {
+		color: #b8b6b4;
+		font-family: "Motiva Sans", Sans-serif;
+	}
+
+	.p {
+		font-family: "Motiva Sans", Sans-serif;
+		font-size: 13px;
+	}
+
+	.friends.img {
+		background-position: 0px 0px;
+	}
+
+	.steam.icons {
+		{ background-position: 0px 0px; }
+	}
+
+	a:visited {
+		color: #66c0f4;
+	}
+
+	a:link {
+		color: #66c0f4;
+	}
+	a:hover {
+		
+		color: white;
+
+	}
+
+	.GameCategory {
+		margin-left: 75px;  
+		font-size: 13px; 
+		text-decoration: none; 
+		font-weight: 450; 
+		margin-top: 10px;
+	}
+
+	.RegularCategories {
+		margin-left: 5px;  
+		font-size: 13px; 
+		text-decoration: none; 
+		font-weight: 450; 
+		position: absolute;
+	}
+
+	
